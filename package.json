@@ -1,0 +1,22 @@
+{
+  "name": "ahex",
+  "version": "1.0.0",
+  "description": "Alpha hexadecimal",
+  "main": "index.js",
+  "repository": "alexcambose/ahex",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hex",
+    "alpha",
+    "converter",
+    "css",
+    "color",
+    "rgb",
+    "rgba",
+    "hexadecimal"
+  ],
+  "author": "Alexandru Cambose",
+  "license": "ISC"
+}
