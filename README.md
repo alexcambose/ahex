@@ -22,6 +22,10 @@ console.log(ahex('#0f0d'));
 console.log(ahex('#0f0dd'));
 // rgba(0, 255, 0, 0.87)
 
+// RRGGBB format
+console.log(ahex('#00ff00'));
+// rgba(0, 255, 0)
+
 // RRGGBBA format
 console.log(ahex('#00ff00d'));
 // rgba(0, 255, 0, 0.87)
